@@ -1,6 +1,9 @@
 a {
-    background: black;
-    color: aliceblue;
+    border: 1px solid black;
+    color: black;
     text-decoration: none;
-    display: inline-block;
+    height: 40px;
+    display: block;
+    text-align: center;
+    font-size: 25px;
 }
