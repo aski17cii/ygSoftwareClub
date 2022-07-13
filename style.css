@@ -7,3 +7,8 @@ a {
     text-align: center;
     font-size: 25px;
 }
+
+td {
+    width: 60px;
+    height: 30px;
+}
